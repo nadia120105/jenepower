@@ -1,0 +1,6 @@
+musim,label,k_shape,c_scale,mean_speed_ms,power_density_wm2,power_class,n_obs
+DJF,Desember - Februari (1980-2024),2.2777,5.8145,5.16,141.94,Kelas 2 (Sedang-Rendah),97488
+MAM,Maret - Mei (1980-2024),2.2641,4.7431,4.2096,77.42,Kelas 1 (Rendah),99360
+JJA,Juni - Agustus (1980-2024),5.4521,6.663,6.1607,161.05,Kelas 2 (Sedang-Rendah),99360
+SON,September - November (1980-2024),2.6604,4.9298,4.3927,77.85,Kelas 1 (Rendah),98280
+MEAN,Rata-rata Tahunan (1980-2024),2.6161,5.5899,4.9815,114.6,Kelas 2 (Sedang-Rendah),394488
